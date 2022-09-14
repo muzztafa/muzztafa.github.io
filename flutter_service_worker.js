@@ -3,17 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4f60fbffd94da7fed529a76f381a3f74",
-"assets/assets/images/avatar-removed.png": "6819fe781d4bb49b2942e70f4a9c6908",
-"assets/assets/images/avatar.jpeg": "2fad7a7f0fafd4e46c095593ef136097",
-"assets/assets/images/bitmoji_hi.jpeg": "94da020bcbc5fcdbb87e0251b17c340d",
-"assets/assets/images/breathingapp_horizontal.png": "152b1f4a39f0cc784c071d47da83958e",
-"assets/assets/images/ftp.gif": "4716d6fe60b9958c923022e19c7c5fe8",
-"assets/assets/images/hi_test.png": "e4d1f31c7ee26a7bdccdd5051a5f22eb",
-"assets/assets/images/iba.jpg": "eb37b91b7e0754afe53746ad911c3176",
-"assets/assets/images/sidepose.png": "7e35553b52b48c36af2b6938ee7f11ec",
-"assets/assets/images/SilentScreamer.png": "39825fed35dee17b51d867b5b4012f46",
-"assets/assets/images/wse.gif": "e980c1173022b1e27482699556c1afce",
+  "assets/AssetManifest.json": "801125fca546f506babac9af4ec061ba",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "da50e4c26417b1ac468fc8cc38028de0",
@@ -32,8 +22,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "eb173aad6b601dc454f95f56c06b55fd",
-"/": "eb173aad6b601dc454f95f56c06b55fd",
+"index.html": "cc2e294304590524ff47dfb71d156893",
+"/": "cc2e294304590524ff47dfb71d156893",
 "main.dart.js": "d890c33589c08e657885e76abea862a8",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"
